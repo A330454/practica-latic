@@ -1,0 +1,36 @@
+.sidenav {
+  height: 100%;
+  width: 15%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #e1e1e1;
+  overflow-x: hidden;
+  padding-top: 20px;
+  opacity: .9;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.img-border{
+  width: 100%;
+}
+
+.componente-sidebar{
+  padding-left: 50px;
+}
+
+.pi pi-check{
+  margin-left: 10px;
+}
+.img-border{
+    width: 100%;
+    height: auto;
+}
