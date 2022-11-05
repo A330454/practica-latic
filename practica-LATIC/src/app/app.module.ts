@@ -14,6 +14,7 @@ import { CardHomeComponent } from './componentes/card-home/card-home.component';
 import { CentrameCardComponent } from './componentes/centrame-card/centrame-card.component';
 import { JuegaConColoresComponent } from './paginas/juega-con-colores/juega-con-colores.component';
 import { TablaColorComponent } from './componentes/tabla-color/tabla-color.component';
+import { NavbarInstruccionesComponent } from './paginas/navbar-instrucciones/navbar-instrucciones.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +29,7 @@ import { TablaColorComponent } from './componentes/tabla-color/tabla-color.compo
     CentrameCardComponent,
     JuegaConColoresComponent,
     TablaColorComponent,
+    NavbarInstruccionesComponent,
 
   ],
   imports: [
